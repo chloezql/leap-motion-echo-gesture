@@ -11,7 +11,7 @@ If you don't have an echoAR API key yet, make sure to register for FREE at [echo
 ## Run
 * Open the code locally on a server like MAMP or simply import all code into online platform like Glitch or Codepen to try the demo right away. Make sure Leap motion Camera is connected to your computer and you have set the Leap Motion Control panel. 
 * Swipe your palm above the sensor to jump to the next model in console. 
-[Demo](documentations/ezgif.com-video-to-gif (2).gif)
+![Demo](documentations/ezgif.com-video-to-gif (2).gif)
 * Screen Tap ( Tap horizontally forward) above the sensor to move the model downward on the screen and make the height of the model larger. 
 
 ## Notes
